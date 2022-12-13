@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Orgs</string>
+    <string name="descri_o">Descrição</string>
+    <string name="nome_da_fruta">nome da fruta</string>
+    <string name="button">Button</string>
+    <string name="valor_do_produto">Valor do produto</string>
+    <string name="Adicionar" />
+    <string name="adicionar">Adicionar</string>
+</resources>
